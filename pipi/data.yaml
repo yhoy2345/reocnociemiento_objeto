@@ -1,8 +1,0 @@
-# data.yaml
-path: ./dataset/celar  # Ruta directa a tus imágenes
-path: ./dataset/estheban
-train: .               # Usa todas las imágenes para entrenar (no recomendado para producción)
-val: .                 # Mismo que train (solo para pruebas)
-
-nc: 2                 # Número de clases
-names: ["celar", "estheban"]       # Nombre de tu clase
